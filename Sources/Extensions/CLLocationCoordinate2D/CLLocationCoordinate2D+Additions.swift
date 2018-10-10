@@ -1,8 +1,8 @@
 //
 //  CLLocationCoordinate2D+Additions.swift
-//  BoringSSL
+//  SugarLumpCoreLocation
 //
-//  Created by Mario Chinchilla on 31/5/18.
+//  Created by Mario Chinchilla on 10/10/18.
 //
 
 import Foundation
